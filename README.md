@@ -3,15 +3,29 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 
 ---
 * یه خروار لینک اشتراک ساب برای هیدیفای و کلش و ویتوری که از گیت‌هاب و یه سری منابع دیگه مثل تلگرام جمع‌آوری شده.
-
-* Lots of Clash and V2ray subscription links collected from GitHub and other public sources
-
-* 从 GitHub 和公共资源收集大量 Clash 和 V2ray 订阅链接
-
-*  Соберите множество ссылок на подписку на Clash и V2ray из GitHub и общедоступных источников
+  
+* Lots of Clash and V2ray subscription links collected from GitHub and other public sources.
+* 从 GitHub 和公共资源收集大量 Clash 和 V2ray 订阅链接.
+*  Соберите множество ссылок на подписку на Clash и V2ray из GitHub и общедоступных источников.
 
 
-![IMG_3534](https://github.com/mermeroo/V2RAY-and-CLASH-Subscription-Links/assets/131429982/2620a6c6-5392-49b3-9332-fbca872d2c5c)
+  
+## $\color{silver} \normalsize \text{The subscription link for the Hiddify clients}$
+> built in GitHub Actions
+>
+> is automatically updated every thirty minutes.
+
+## $\color{gold} \normalsize \text{Subscription URL link}$
+```
+https://raw.githubusercontent.com/NiREvil/vless/main/warp.json
+```
+---
+<p align="center">$\color{silver} \Large \text{ Scan it }$</p>
+
+<p align="center">
+  <br><img src="./QR.gif" width="520px">
+</p>
+
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 ## table of contents
@@ -36,7 +50,9 @@ $$\color{silver} \Huge \text{\R $\sum{\vil_t = \mathbb{N108}\infty}$}$$
 #### Warp Hiddify
 https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp
 
-https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/WarpOnWarp.json
+https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/WarpOnWarp.json  
+
+https://raw.githubusercontent.com/NiREvil/vless/main/warp.json
 
 https://raw.githubusercontent.com/NiREvil/vless/main/sub/warp-ios
 
