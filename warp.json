@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/NiREvil
-//last update on: 2024-12-24 16:07:53
-warp://188.114.96.86:1002?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR&&detour=warp://188.114.96.95:8319?ifp=10-20&ifps=20-60&ifpd=5-10#warpONwarp
+//last update on: 2024-12-24 16:46:23
+warp://188.114.96.1:955?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR&&detour=warp://188.114.98.72:4198?ifp=10-20&ifps=20-60&ifpd=5-10#warpONwarp
